@@ -1,13 +1,6 @@
 ### Hi there 👋
 
 I'm Bawer a junior frontend developer.
-My future goal is to be an AI developer
-
-### Profiles:
-...
-
-### Looking for job :)
-
 <!--
 **BawerMY/BawerMY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
