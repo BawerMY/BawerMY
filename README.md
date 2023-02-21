@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bawer</h1>
 <h3 align="center">A hard working frontend developer</h3>
 
-- 🌱 I’m currently learning **Framer Motion**
-
 - 💬 Ask me about **HTML-css-js, React, Unity, Django**
 
 - 📫 How to reach me **bawermy123@gmail.com**
