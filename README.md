@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Framer Motion**
 
-- 👨‍💻 All of my projects are available at [https://github.com/BawerMY](https://github.com/BawerMY)
-
 - 💬 Ask me about **HTML-css-js, React, Unity, Django**
 
 - 📫 How to reach me **bawermy123@gmail.com**
