@@ -62,4 +62,4 @@
 
 ###
 <div align="center"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31yk7eu2rj2hny4mlr6aufckz77e&count=5" /></div>  
-
+<div align="center"><img src="[https://spotify-recently-played-readme.vercel.app/api?user=31yk7eu2rj2hny4mlr6aufckz77e&count=1](https://spotify-recently-played-readme.vercel.app/api?user=31yk7eu2rj2hny4mlr6aufckz77e&unique=1)" /></div>  
