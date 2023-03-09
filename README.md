@@ -60,8 +60,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/BawerMY/BawerMY/blob/output/snake.svg" alt="Snake animation" />
-
 ###
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31yk7eu2rj2hny4mlr6aufckz77e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
+<div align="center"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31yk7eu2rj2hny4mlr6aufckz77e&count=5" /></div>  
 
