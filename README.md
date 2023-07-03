@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=BawerMY)
 <h1 align="center">Hi 👋, I'm Bawer</h1>
 <h3 align="center">Frontend, Backend and Python Developer</h3>
 
@@ -46,6 +45,8 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
+![](https://komarev.com/ghpvc/?username=BawerMY)
+
 
 ###
 
