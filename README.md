@@ -2,6 +2,12 @@
 <h1 align="center">Hi 👋, I'm Bawer</h1>
 <h3 align="center">Frontend, Backend and Python Developer</h3>
 
+
+
+
+
+
+
 ###
 
 <div align="center">
