@@ -1,4 +1,4 @@
-![counter](https://[YOUR_ENDPOINT].m.pipedream.net)
+![](https://komarev.com/ghpvc/?username=BawerMY)
 <h1 align="center">Hi 👋, I'm Bawer</h1>
 <h3 align="center">Frontend, Backend and Python Developer</h3>
 
